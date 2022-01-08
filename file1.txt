@@ -1,0 +1,7 @@
+This is file 1! Hi shane hi tim hi reena.
+<<<<<<< HEAD
+Line 1
+=======
+Hello, this is Shane.
+
+>>>>>>> a26839751dc6eec24823a3b625dfa9cbb5b9a178
